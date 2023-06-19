@@ -47,4 +47,6 @@ All the notebooks are designed to be run in Google colab.
 
 # Additional Resources 
 
+My final report can be found in this repo under `finalreport.pdf`.
+
 My literature review can be found [here](https://www.zotero.org/alli105/collections/J5PMCFZH).
